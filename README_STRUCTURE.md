@@ -1,9 +1,10 @@
-# 📊 Structure des Notebooks - Seuil de Rentabilité
+# ENACTUS ENET'Com
+# Structure des Notebooks - Seuil de Rentabilité
 
-## 📁 2 Notebooks Complémentaires
+##  2 Notebooks Complémentaires
 
 ### 1️⃣ **seuil_rentabilite_interactive.ipynb** (RÉFÉRENCE)
-**👉 COMMENCEZ PAR CELUI-CI**
+  **---> COMMENCEZ PAR CELUI-CI**
 
 **Contenu** :
 - 📋 Partie 0 : Hypothèses et estimations (à remplir avant de calculer)
@@ -17,13 +18,12 @@
   6. **Seuil de Rentabilité (SR)** : CA minimum pour ne pas perdre
   7. **Point mort** : Jour de l'année pour atteindre l'équilibre
 
-- 🔢 Formules et définitions avec exemples
+-  Formules et définitions avec exemples
 - 📊 Données réalistes : Entreprise TECHPRO (180 000 TND CA)
-- 🧮 Classe Python : `SeuilRentabilite` pour les calculs
+-  Classe Python : `SeuilRentabilite` pour les calculs
 - 📈 Rapport complet : Visualisation des résultats
 - 🎨 2 exemples de graphiques professionnels
 
-**Durée** : 15-20 minutes de lecture
 
 ---
 
@@ -50,9 +50,9 @@
 ```
 1. Remplir la Partie 0 du premier notebook
    ↓
-2. Lire les Concepts clés (Partie 2) 
+2. Lire les Concepts clés
    ↓
-3. Comprendre la Classe Python (Partie 5)
+3. Comprendre la Classe Python
    ↓
 4. Observer les 2 graphiques d'exemple
    ↓
@@ -60,11 +60,9 @@
    ↓
 6. Faire les 3 exercices pas à pas
    ↓
-7. Tester les 2 simulations
+7. Tester la simulation
    ↓
-8. Répondre au quiz
-   ↓
-9. Analyser votre propre projet
+8. Analyser votre propre projet
 ```
 
 ---
@@ -77,7 +75,6 @@
 | **Niveau** | Débutant | Intermédiaire |
 | **Contenu** | Théorie + 2 exemples | Exercices + simulations |
 | **Interaction** | Lecture passive | Résolution active |
-| **Durée** | 15-20 min | 30-45 min |
 | **Résultat** | Comprendre | Savoir faire |
 
 ---
@@ -109,4 +106,4 @@
 
 ---
 
-**Bon apprentissage ! 🎓**
+**Brazziiiiiiw !**
